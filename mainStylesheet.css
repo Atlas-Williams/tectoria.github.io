@@ -1,0 +1,10 @@
+:root {
+    --byzantineBlue: #3453D1;
+    --aero: #05B2DC;
+    --emerald: #16DB93;
+    --maize: #EFEA5A;
+    --sandyBrown: #F29E4C;
+}
+.Logo h1 {
+    color: var(--byzantineBlue);
+}
