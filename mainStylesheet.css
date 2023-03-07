@@ -8,3 +8,6 @@
 .Logo h1 {
     color: var(--byzantineBlue);
 }
+.LogoContainer {
+    color: var(--aero);
+}
