@@ -5,8 +5,12 @@
     --maize: #EFEA5A;
     --sandyBrown: #F29E4C;
 }
-.Logo h1 {
+
+.LogoContainer h1 {
     color: var(--byzantineBlue);
+}
+.LogoContainer p {
+    color: var(--emerald);
 }
 .LogoContainer {
     color: var(--aero);
