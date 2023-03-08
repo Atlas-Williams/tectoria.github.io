@@ -9,5 +9,5 @@
     color: var(--byzantineBlue);
 }
 .LogoContainer {
-    color: var(--aero);
+    background-color: var(--aero);
 }
